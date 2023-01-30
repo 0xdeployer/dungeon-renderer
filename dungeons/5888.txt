@@ -1,0 +1,19 @@
+XXXXXXXXXXXXXXXXXXX
+X     X    XXXXXXXX
+X     X    XXXXXXXX
+X           XXXXXXX
+X     X  p  XXXXXXX
+X     X X X XXX  XX
+XXX            p XX
+XX        X XX   XX
+XX        X XX   XX
+XX               XX
+XX       XX XXp  XX
+X        XX XXX  XX
+X p            X XX
+X           XXXX XX
+X            XXX XX
+XX              XXX
+XXXXXX     XXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX

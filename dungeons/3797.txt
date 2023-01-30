@@ -1,0 +1,8 @@
+   D  XX
+X  XX XX
+X  X  XX
+X  D  XX
+X     XX
+XX   pXX
+XXXXXXXX
+XXXXXXXX
